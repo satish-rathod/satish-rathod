@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Full-Stack Intern at Bot9**  
 - 🎓 I’m pursuing my **Bachelor + Masters of Science in Computer Science at Scaler School Of Technology**  
-- 👨‍💻 You can check out my portfolio at [My Portfolio](https://satish-rathod-portfolio.com)
+- 👨‍💻 You can check out my portfolio at [My Portfolio](https://satrat.vercel.app)
 
 <h3 align="left">💻 Projects:</h3>
 
