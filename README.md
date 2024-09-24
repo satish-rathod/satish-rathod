@@ -13,15 +13,12 @@
 
 - **Simply Invest**:  
   Developed a full-stack web app using OpenAI APIs for trading. It enables users to make smart trading decisions using AI sentiment analysis.  
-  [View Project](https://github.com/satish-rathod/simply-invest)
 
 - **AI Receptionist (Chatbot)**:  
   Created an AI chat-bot using OpenAI APIs to assist users in booking hotel rooms through natural language processing.  
-  [View Project](https://github.com/satish-rathod/ai-receptionist)
 
 - **Image Editor**:  
   A command-line tool for various image processing operations like grayscale conversion, brightness/contrast adjustment, flipping, and more.  
-  [View Project](https://github.com/satish-rathod/image-editor)
 
 ---
 
