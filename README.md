@@ -1,43 +1,48 @@
 <h1 align="center">Hi 👋, I'm Satish Rathod</h1>
-<h3 align="center">Full-Stack Developer | AI & System Design Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Full-Stack Developer | Edge Computing Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satish-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="satish-rathod" />
 </p>
 
-- 🔭 I’m currently working as a **Full-Stack Intern at Bot9**  
-- 🎓 I’m pursuing my **Bachelor + Masters of Science in Computer Science at Scaler School Of Technology**  
+- 🔭 I'm currently working as an **AI-ML Intern at 1Pharmacy Networks**  
+- 🚀 Building AI/ML pipelines with **NVIDIA Jetson** and cloud-edge sync systems  
 - 👨‍💻 You can check out my portfolio at [My Portfolio](https://satrat.vercel.app)
 
-<h3 align="left">💻 Projects:</h3>
+<h3 align="left">💻 Featured Projects:</h3>
 
-- **Simply Invest**:  
-  Developed a full-stack web app using OpenAI APIs for trading. It enables users to make smart trading decisions using AI sentiment analysis.  
+- **Edge-AI Audio Analysis System**:  
+  Developed an edge-cloud AI pipeline for real-time audio processing and NLP with REST APIs deployed in Docker using Jetson, Whisper, and Hugging Face.
+
+- **Simply Invest - AI Trading Bot**:  
+  Built a MERN stack trading bot using OpenAI APIs for smart trading decisions through sentiment analysis.
 
 - **AI Receptionist (Chatbot)**:  
-  Created an AI chat-bot using OpenAI APIs to assist users in booking hotel rooms through natural language processing.  
-
-- **Image Editor**:  
-  A command-line tool for various image processing operations like grayscale conversion, brightness/contrast adjustment, flipping, and more.  
+  Created an AI-powered chatbot using MERN stack and OpenAI APIs for hotel room booking through natural language conversations.
 
 ---
 
 ### 🛠️ Technical Skills:
 
 #### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### Frameworks & Technologies:
+#### AI/ML & Data Science:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+#### Web Development:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -50,12 +55,13 @@
 
 ---
 
-### ⚡ Fun Fact:
-I love competitive programming! You can check out my profiles:
-- [Codeforces](https://codeforces.com/profile/Satish_Rathod_)
-- [CodeChef](https://www.codechef.com/users/satrat_ov)
-- [Atcoder](https://atcoder.jp/users/Satish_)
-- [LeetCode](https://leetcode.com/u/satrat_05/)
+### ⚡ Competitive Programming:
+🏆 **Max Ratings**: Codeforces (1375) | CodeChef (1703) | LeetCode (1643) | AtCoder (529)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Satish_Rathod_)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satrat_ov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/satrat_05/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-3C4142?style=for-the-badge)](https://atcoder.jp/users/Satish_)
 
 ---
 
