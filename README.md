@@ -61,11 +61,3 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satrat_ov)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/satrat_05/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-3C4142?style=for-the-badge)](https://atcoder.jp/users/Satish_)
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish-rathod&show_icons=true&theme=dark" alt="satish-rathod-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish-rathod&layout=compact&theme=dark" alt="satish-rathod-langs" />
-</p>
