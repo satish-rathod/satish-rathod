@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Satish Rathod</h1>
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | Edge Computing Enthusiast</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satish-rathod&label=Profile%20views&color=0e75b6&style=flat" alt="satish-rathod" />
 </p>
 
-- 🔭 I'm currently working as an **AI-ML Intern at 1Pharmacy Networks**  
-- 🚀 Building AI/ML pipelines with **NVIDIA Jetson** and cloud-edge sync systems  
+- [cite_start]🎓 I'm a Computer Science student pursuing a **BSc + MSc** via **BITS Pilani** & **Scaler School of Technology** [cite: 4, 5, 6, 7]
+- [cite_start]💼 Previously **AI-ML Intern at 1Pharmacy Networks** and **Full-Stack Intern at Dukaan** [cite: 9, 10, 28]
+- [cite_start]🚀 Experienced in building AI/ML pipelines with **NVIDIA Jetson**, Docker, and cloud-edge sync systems [cite: 20, 36]
 - 👨‍💻 You can check out my portfolio at [My Portfolio](https://satrat.vercel.app)
 
 <h3 align="left">💻 Featured Projects:</h3>
 
 - **Edge-AI Audio Analysis System**:  
-  Developed an edge-cloud AI pipeline for real-time audio processing and NLP with REST APIs deployed in Docker using Jetson, Whisper, and Hugging Face.
+  [cite_start]Developed an edge-cloud AI pipeline for real-time audio inference using Whisper and transformer-based NLP models on Jetson devices[cite: 35, 36].
 
 - **Simply Invest - AI Trading Bot**:  
-  Built a MERN stack trading bot using OpenAI APIs for smart trading decisions through sentiment analysis.
+  [cite_start]Developed an AI-enabled trading platform using OpenAI APIs for sentiment-driven trading insights[cite: 33, 34].
 
-- **AI Receptionist (Chatbot)**:  
-  Created an AI-powered chatbot using MERN stack and OpenAI APIs for hotel room booking through natural language conversations.
+- **Graph Visualization Tool**:  
+  [cite_start]Built an interactive graph visualization tool using **React** and **Cytoscape.js**, enabling dynamic rendering of nodes, edges, and paths for algorithm simulation[cite: 39, 40].
 
 ---
 
@@ -48,7 +48,6 @@
 ---
 
 ### 🌐 Connect with me:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-rathod-2a583127ai/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish.rathod.ov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satish-rathod)
