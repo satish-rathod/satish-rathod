@@ -42,13 +42,3 @@ LLM-powered backend features, conversational AI chatbot flows
 | **Databases & Infra** | PostgreSQL · MongoDB · Redis · Docker · Linux · Git |
 | **AI & Automation** | OpenAI API · Whisper · Hugging Face · Playwright · Puppeteer · Celery · RabbitMQ |
 
----
-
-### Competitive Programming
-
-| Platform | Rating |
-|----------|--------|
-| [CodeChef](https://www.codechef.com/users/satrat_ov) | **1703** |
-| [LeetCode](https://leetcode.com/u/satrat_05/) | **1643** |
-| [Codeforces](https://codeforces.com/profile/Satish_Rathod_) | **1375** |
-| [AtCoder](https://atcoder.jp/users/Satish_) | **529** |
