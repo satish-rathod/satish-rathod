@@ -12,6 +12,9 @@ Backend & Systems Engineer with experience in AI/ML. I build reliable, scalable 
 
 ## Experience
 
+**SWE Intern — Trackaroo** (Feb 2026 – Present)
+Multi-tenant automotive dealer ERP platform with Spring Boot, React + TypeScript, PostgreSQL, and automation bots (Playwright, Puppeteer, Celery, RabbitMQ).
+
 **AI-ML Intern — 1Pharmacy Networks** (Nov 2024 – May 2025)
 Edge-cloud AI pipelines on NVIDIA Jetson, audio processing with Whisper & Riva, NLP with Hugging Face & Pinecone, Docker deployments.
 
