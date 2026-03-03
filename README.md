@@ -10,6 +10,17 @@ Backend & Systems Engineer with experience in AI/ML. I build reliable, scalable 
 **DevOps:** Docker, CI/CD, Linux, Cloud Infrastructure
 **Frontend:** React, TypeScript, Tailwind CSS
 
+## Experience
+
+**AI-ML Intern — 1Pharmacy Networks** (Nov 2024 – May 2025)
+Edge-cloud AI pipelines on NVIDIA Jetson, audio processing with Whisper & Riva, NLP with Hugging Face & Pinecone, Docker deployments.
+
+**Full-Stack Intern — Bot9, Dukaan** (Aug 2024 – Oct 2024)
+Back-end development with LLMs, system performance optimization, AI-driven features.
+
+**Project Intern — Scaler** (Mar 2024 – May 2024)
+Built a local streaming server with Mediasoup for low-latency classroom video/audio.
+
 ## Featured Projects
 
 **[flow](https://github.com/satish-rathod/flow)** — Voice interface for Claude Code. Hands-free AI-assisted development with real-time STT/TTS and a WebSocket bridge for attaching to running sessions.
