@@ -2,7 +2,7 @@
 
 I build tools I wish existed. Most of my projects start with "why doesn't this exist?" and end with a GitHub repo.
 
-Currently an **SWE Intern at [Trackaroo](https://trackaroo.in)**, pursuing **CS at Scaler School of Technology + BITS Pilani**.
+Currently an **SWE Intern at [Trackaroo](https://www.trackaroo.in/)**, pursuing **CS at Scaler School of Technology + BITS Pilani**.
 
 > [**Portfolio**](https://satrat.vercel.app) &nbsp;&middot;&nbsp; [**Resume**](https://drive.google.com/file/d/1e75BIylJQGn1eBchP2KS6KZntX1uC9E7/view?usp=sharing) &nbsp;&middot;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/satish-rathod-2a583127a/) &nbsp;&middot;&nbsp; [satish.rathod.ov@gmail.com](mailto:satish.rathod.ov@gmail.com)
 
