@@ -20,7 +20,7 @@ I build tools I wish existed. Most of my projects start with "why doesn't this e
 
 ### Where I've worked
 
-**SWE Intern — [Trackaroo](https://trackaroo.in)** `Feb 2026 – Present`
+**SWE Intern — [Trackaroo](https://WWW.trackaroo.in)** `Feb 2026 – Present`
 Multi-tenant dealer ERP, automation bots (Playwright, Puppeteer, Celery, RabbitMQ)
 
 **AI-ML Intern — [1Pharmacy Networks](https://1pharmacy.io)** `Nov 2024 – May 2025`
